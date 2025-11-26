@@ -34,8 +34,6 @@
 </div>
 
 ###
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/LukaNatha/LukaNatha/output/snake.svg" alt="Snake animation" />
 
 ###
