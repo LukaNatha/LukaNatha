@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Eae 👋</h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">Meu nome é Lucca e sou estudante de informática do IFRN</p>
 
 ###
 
@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Resolvendo bugs no python sempre<br>📚 estou aprendendo C.<br>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Eu estou aprendendo a codar em</h2>
 
 ###
 
