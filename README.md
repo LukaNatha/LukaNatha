@@ -25,7 +25,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
-  <img src="D:\Users\20251174010030\Downloads\c-programming.svg" height="40" alt="c logo"  />
+  <img src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" height="40" alt="c logo"  />
 </div>
 
 ###
