@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">✨ Resolvendo bugs no python sempre<br>📚 estou aprendendo C.<br>
+<p align="left">✨Resolvendo bugs no python sempre<br>📚 Estou aprendendo C.<br>
 
 ###
 
