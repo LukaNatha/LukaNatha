@@ -3,7 +3,7 @@
 </div>
 
 ###
-<h1 align="left">Eae 👋</h1>
+<h1 align="left">Eae</h1>
 
 ###
 
@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">✨Resolvendo bugs no python sempre<br>📚Estou aprendendo C.<br>
+<p align="left">Resolvendo bugs no python sempre<br>Estou aprendendo C e poo.<br>
 
 ###
 
