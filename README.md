@@ -1,14 +1,15 @@
-<h2 align="left">Boa tarde! Meu nome é Lucca Nathã e eu sou um estudante do curso técnico do IFRN</h2>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LukaNatha/LukaNatha/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/LukaNatha/LukaNatha/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
 ###
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -43,6 +44,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/LukaNatha/LukaNatha/snake-output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
 
 ###
