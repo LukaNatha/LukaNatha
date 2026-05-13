@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 Estou aprendendo Python, Java, Html5, Css3 e C
 
 
-## 🌐 Socials:
+## 🌐 Sociais:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:l.natha@escolar.ifrn.edu.br) 
 
 # 💻 Tech Stack:
