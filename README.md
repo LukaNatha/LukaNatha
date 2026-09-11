@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Estou aprendendo Python, Java, Html5, Css3 e C
+Estou aprendendo Python, Java, HTML5, CSS3 e C
 
 
 ## 🌐 Sociais:
